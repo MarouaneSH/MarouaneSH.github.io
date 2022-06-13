@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/works/malt", {data:[{}],fetch:{},mutations:[]});

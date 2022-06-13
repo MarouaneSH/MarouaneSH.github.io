@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/works/franchise-france", {data:[{}],fetch:{},mutations:[]});

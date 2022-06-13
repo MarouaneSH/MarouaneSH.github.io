@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/works/cryptoz-app", {data:[{}],fetch:{},mutations:[]});

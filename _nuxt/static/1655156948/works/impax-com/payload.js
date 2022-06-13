@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/works/impax-com", {data:[{}],fetch:{},mutations:[]});

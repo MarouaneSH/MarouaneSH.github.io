@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/works/genitax-ma", {data:[{}],fetch:{},mutations:[]});

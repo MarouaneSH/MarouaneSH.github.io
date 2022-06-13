@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/works/wklni-com", {data:[{}],fetch:{},mutations:[]});

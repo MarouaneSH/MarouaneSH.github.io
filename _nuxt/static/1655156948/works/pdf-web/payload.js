@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/works/pdf-web", {data:[{}],fetch:{},mutations:[]});

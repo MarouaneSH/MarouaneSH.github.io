@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/works/grande-optique", {data:[{}],fetch:{},mutations:[]});
